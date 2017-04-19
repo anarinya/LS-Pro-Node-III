@@ -1,0 +1,23 @@
+{
+  "name": "ls-pro-node-iii",
+  "version": "1.0.0",
+  "description": "Topics:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anarinya/LS-Pro-Node-III.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anarinya/LS-Pro-Node-III/issues"
+  },
+  "homepage": "https://github.com/anarinya/LS-Pro-Node-III#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
